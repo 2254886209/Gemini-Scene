@@ -14,7 +14,7 @@ In the realm of computer vision, the classification of dangerous scenes in crowd
 git clone https://github.com/YourUsername/Gemini-Scene.git
 cd Gemini-Scene
 
-  🖥 Experimental Environment
+🖥 Experimental Environment
 
 This code is intended to run on Google Colab for maximum convenience and rapid debugging.
 The open-source release includes:
@@ -27,7 +27,7 @@ The open-source release includes:
 
 ```Raw dataset archive
 
- 📊 Experimental Environment
+📊 Experimental Environment
 
 We’ve added detailed explanations to every section of the notebooks so you can follow our workflow step by step.
 Simply run each cell from top to bottom in the following order:
