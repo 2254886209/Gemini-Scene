@@ -1,3 +1,6 @@
+Enhancing Dangerous Scene Classification with
+Multimodal LLMs and Attention Mechanisms
+
 #Quick start
 !git clone https://github.com/YourUsername/Gemini-Scene.git
 
