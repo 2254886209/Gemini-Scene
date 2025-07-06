@@ -1,10 +1,10 @@
 # 🚨 Enhancing Dangerous Scene Classification with Multimodal LLMs & Attention Mechanisms
 
-##Zhang, D., Xie, T., Wu, S., Duan, S., & Wang, L. (2025). Enhancing Dangerous Scene Classification with
+Zhang, D., Xie, T., Wu, S., Duan, S., & Wang, L. (2025). Enhancing Dangerous Scene Classification with
 Multimodal LLMs and Attention Mechanisms. The Visual Computer
 ---
 
-##📜  Abstract
+📜  Abstract
 ---
 In the realm of computer vision, the classification of dangerous scenes in crowded environments, such as the rising popularity of tourist destinations, poses significant challenges. Traditional safety monitoring methods heavily rely on manual supervision, which is inadequate for real-time risk identification to ensure the safety of life and property. This is particularly challenging in crowded environments, where transitioning from manual monitoring to human-machine collaboration is imperative. The advent of large language models (LLMs) provides an opportunity to enhance safety systems. With their vast parameter scale, these models improve the precision and generalization ability of conventional vision models. With the introduction of DeepSeek, the high-cost barriers to using large model APIs have been significantly lowered. This study introduces Gemini-Scene, a novel multimodal framework leveraging large language models (LLMs) and attention mechanisms to classify dangerous scenes accurately. We construct a comprehensive dataset focused on hazardous scenarios and develop the multimodal network Gemini-scene.  By integrating image embeddings, textual descriptions, and scene probabilities from pre-trained models such as CLIP and BERT, our framework aligns multimodal features through a self-attention mechanism. The model achieves a hazard scene classification accuracy of 97.5%, significantly outperforming existing deep learning methods with accuracies below 77.5\%. Experimental results demonstrate that Gemini-Scene achieves a classification accuracy of 97.5%, significantly outperforming existing methods with accuracies below 77.5%. This framework offers an advanced solution for next-generation safety monitoring in high-risk, densely populated areas. The code is available at https://github.com/2254886209/Gemini-Scene.
 
