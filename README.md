@@ -1,6 +1,7 @@
-# 🚨 Enhancing Dangerous Scene Classification  
-## with Multimodal LLMs & Attention Mechanisms
+# 🚨 Enhancing Dangerous Scene Classification with Multimodal LLMs & Attention Mechanisms
 
+##Zhang, D., Xie, T., Wu, S., Duan, S., & Wang, L. (2025). Enhancing Dangerous Scene Classification with
+Multimodal LLMs and Attention Mechanisms. The Visual Computer
 ---
 
 ## 📦 Quick Start
