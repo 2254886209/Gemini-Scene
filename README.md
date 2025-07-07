@@ -29,7 +29,7 @@ The open-source release includes:
 
 📊 Experimental Environment
 
-We’ve **added detailed explanations to every section of the notebooks** so you can follow our workflow step by step.
+We’ve _added detailed explanations to every section of the notebooks_ so you can follow our workflow step by step.
 Simply run each cell from top to bottom in the following order:
 
 ```Dataset setup & preprocessing
